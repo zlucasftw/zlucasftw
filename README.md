@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/zlucasftw?tab=followers">
+  <a href="https://github.com/zlucasftw">
     <img src="https://img.shields.io/github/followers/zlucasftw?label=Follow&style=flat" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=zlucasftw&color=blueviolet" alt="Profile Views" />
