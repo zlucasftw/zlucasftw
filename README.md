@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/zlucasftw">
-    <img src="https://img.shields.io/github/followers/zlucasftw?label=Follow&style=flat" alt="GitHub followers" />
+  <a href="https://github.com/zlucasftw?tab=followers">
+    <img src="https://img.shields.io/github/followers/zlucasftw?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=zlucasftw&color=blueviolet" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/lucasgois/">
+  <a href="https://www.linkedin.com/in/lucasgoisdev">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -64,7 +64,7 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [lucasgois](https://www.linkedin.com/in/lucasgois)
+- LinkedIn: [lucasgois](https://www.linkedin.com/in/lucasgoisdev)
 
 ## 💼 Professional Interests
 
