@@ -64,7 +64,7 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [lucasgois](https://www.linkedin.com/in/lucasgoisdev)
+- LinkedIn: [Lucas Góis](https://www.linkedin.com/in/lucasgoisdev)
 
 ## 💼 Professional Interests
 
@@ -91,8 +91,10 @@
    - RESTful API design
 
 4. **Java Currency Converter**
-   - Java desktop application
-   - UI/UX implementation
+   - Java CLI application
+   - Real-time currency conversion
+   - Consumes external exchange rate API
+   - Basic input handling and validation
   
 ---
 
